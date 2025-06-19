@@ -49,4 +49,6 @@ Xinghao Peng is currently a Ph.D. student in Computing Science at the [Departmen
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.10 - 2022.03*, [Tencent](https://www.tencent.com/), Shanghai, China.
+- *2022.5 - 2022.10*, [PolyU](https://www.polyu.edu.hk/en/), Hong Kong SAR.
+- *2023.2 - 2022.5*, [PolyU](https://www.polyu.edu.hk/en/), Hong Kong SAR.
