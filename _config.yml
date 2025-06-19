@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinghao Peng"
-description              : "Xinghao Peng's Homepage"
+description              : "Department of Computing, The Hong Kong Polytechnic University"
 repository               : "csxhp/csxhp.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinghao Peng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. student at PolyU"
+  bio              : "Ph.D. student"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
